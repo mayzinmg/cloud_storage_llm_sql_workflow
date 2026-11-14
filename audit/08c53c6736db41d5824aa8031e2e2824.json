@@ -1,0 +1,80 @@
+{
+  "run_id": "08c53c6736db41d5824aa8031e2e2824",
+  "status": "PREVIEW",
+  "created_at_utc": "2026-11-14T14:42:52.148860+00:00",
+  "source_blob": "mobile-pos-files/2026-11-15_1.xlsx",
+  "summary": {
+    "category_updates": 4,
+    "category_inserts": 0
+  },
+  "changes": [
+    {
+      "sheet": "GUERLAIN",
+      "company_id": 64,
+      "pos_id": "19013",
+      "location_id": "BF6BEF9A-6DC2-44C7-AC40-4A7F34BD4B4B",
+      "category_id": "21F68830-1302-4D91-84C4-0B466BD40023",
+      "action": "UPDATE",
+      "before": {
+        "dku": "00060236"
+      },
+      "after": {
+        "dku": "00000125",
+        "account_no": "101244",
+        "class_code": "510083",
+        "division_code": "51"
+      }
+    },
+    {
+      "sheet": "GUERLAIN",
+      "company_id": 64,
+      "pos_id": "19013",
+      "location_id": "BF6BEF9A-6DC2-44C7-AC40-4A7F34BD4B4B",
+      "category_id": "792807B0-8F2C-4279-A0A0-42A66ACEE08B",
+      "action": "UPDATE",
+      "before": {
+        "dku": "00060145"
+      },
+      "after": {
+        "dku": "00034421",
+        "account_no": "101244",
+        "class_code": "510083",
+        "division_code": "51"
+      }
+    },
+    {
+      "sheet": "GUERLAIN",
+      "company_id": 64,
+      "pos_id": "19013",
+      "location_id": "BF6BEF9A-6DC2-44C7-AC40-4A7F34BD4B4B",
+      "category_id": "E3459096-DB41-42B3-A68A-640BED5609EC",
+      "action": "UPDATE",
+      "before": {
+        "dku": "00060244"
+      },
+      "after": {
+        "dku": "00034439",
+        "account_no": "101244",
+        "class_code": "510083",
+        "division_code": "51"
+      }
+    },
+    {
+      "sheet": "GUERLAIN",
+      "company_id": 64,
+      "pos_id": "19013",
+      "location_id": "BF6BEF9A-6DC2-44C7-AC40-4A7F34BD4B4B",
+      "category_id": "45C92871-2BC8-4ECA-A0FA-F1E32CCA5049",
+      "action": "UPDATE",
+      "before": {
+        "dku": "00060137"
+      },
+      "after": {
+        "dku": "00034447",
+        "account_no": "101244",
+        "class_code": "510083",
+        "division_code": "51"
+      }
+    }
+  ]
+}
